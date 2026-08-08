@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <defs>
+    <linearGradient id="skipa-gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#4ade80"/>
+      <stop offset="50%" stop-color="#06b6d4"/>
+      <stop offset="100%" stop-color="#3b82f6"/>
+    </linearGradient>
+  </defs>
+  <polygon points="128,10 225,56 225,184 128,246 31,184 31,56" fill="url(#skipa-gradient)"/>
+  <text x="128" y="182" fill="#fff" font-family="Arial Black, Impact, sans-serif" font-size="132" font-weight="900" text-anchor="middle">S</text>
+</svg>
