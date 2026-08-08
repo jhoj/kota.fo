@@ -30,6 +30,6 @@ connect that repository with these settings:
 
 - Framework preset: None
 - Build command: leave empty
-- Build output directory: `/`
+- Build output directory: `.`
 
 Every push to the production branch will then deploy automatically.
